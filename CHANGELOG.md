@@ -6,6 +6,8 @@
 
 ## [Unreleased]
 
+## [v7.7.1] - 2026-05-26
+
 ### Added
 
 - 同步研究生论文《写作指南》2026 年 5 月版本的修改：
@@ -1074,7 +1076,8 @@
 
 
 
-[Unreleased]: https://github.com/tuna/thuthesis/compare/v7.7.0...HEAD
+[Unreleased]: https://github.com/tuna/thuthesis/compare/v7.7.1...HEAD
+[v7.7.1]:     https://github.com/tuna/thuthesis/compare/v7.7.0...v7.7.1
 [v7.7.0]:     https://github.com/tuna/thuthesis/compare/v7.6.0...v7.7.0
 [v7.6.0]:     https://github.com/tuna/thuthesis/compare/v7.5.2...v7.6.0
 [v7.5.2]:     https://github.com/tuna/thuthesis/compare/v7.5.1...v7.5.2
