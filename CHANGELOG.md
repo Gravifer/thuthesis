@@ -6,6 +6,11 @@
 
 ## [Unreleased]
 
+### Added
+
+- 同步研究生论文《写作指南》2026 年 5 月版本的修改：
+  - 统一博士、硕士授权页的措辞（[#1064](https://github.com/tuna/thuthesis/issues/1064)）。
+
 ## [v7.7.0] - 2026-05-10
 
 本次模板更新包含了对教务处 2026 年 4 月更新的本科生综合论文训练写作指南（[#1059](https://github.com/tuna/thuthesis/pull/1059)）的适配。
