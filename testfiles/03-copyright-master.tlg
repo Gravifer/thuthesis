@@ -41,7 +41,7 @@ Completed box being shipped out [1]
 ....\special{color pop}
 ..\glue 8.5359
 ..\glue(\lineskip) 0.0
-..\vbox(674.33032+0.0)x426.79135, glue set 283.85349fil
+..\vbox(674.33032+0.0)x426.79135, glue set 257.75879fil
 ...\write-{}
 ...\special{color push gray 0}
 ...\write-{}
@@ -439,7 +439,7 @@ Completed box being shipped out [1]
 ....\TU/FandolSong(0)/m/n/14.05249 资
 ....\glue(\rightskip) 0.0
 ...\glue(\baselineskip) 12.39633
-...\hbox(10.98904+2.71211)x426.79135, glue set 0.04538
+...\hbox(10.98904+2.71211)x426.79135, glue set 0.09709
 ....\TU/FandolSong(0)/m/n/14.05249 料
 ....\glue 0.0 plus 0.68819
 ....\TU/FandolSong(0)/m/n/14.05249 室
@@ -504,11 +504,15 @@ Completed box being shipped out [1]
 ....\penalty 10000
 ....\TU/FandolSong(0)/m/n/14.05249 ；
 ....\rule(0.0+0.0)x-9.71027
-....\penalty 0
+....\kern 0.0006
+....\kern -0.0006
+....\kern -0.9965
+....\kern 0.0
 ....\glue(\rightskip) 0.0
-...\penalty 150
 ...\glue(\baselineskip) 12.14339
-...\hbox(11.24199+2.81049)x426.79135, glue set 2.097fil
+...\hbox(11.24199+2.81049)x426.79135, glue set - 0.05153
+....\hbox(0.0+0.0)x0.0
+....\glue 8.90929 minus 7.02626
 ....\rule(0.0+0.0)x-8.90929
 ....\TU/FandolSong(0)/m/n/14.05249 （
 ....\penalty 10000
@@ -520,9 +524,37 @@ Completed box being shipped out [1]
 ....\penalty 10000
 ....\glue 8.90929 minus 7.02626
 ....\glue 0.0 plus 0.68819
-....\TU/FandolSong(0)/m/n/14.05249 按
+....\TU/FandolSong(0)/m/n/14.05249 根
 ....\glue 0.0 plus 0.68819
-....\TU/FandolSong(0)/m/n/14.05249 照
+....\TU/FandolSong(0)/m/n/14.05249 据
+....\glue 0.0 plus 0.68819
+....\glue 7.65862 minus 7.0122
+....\rule(0.0+0.0)x-7.65862
+....\TU/FandolSong(0)/m/n/14.05249 《中
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 华
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 人
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 民
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 共
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 和
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 国
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 学
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 位
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 法
+....\penalty 10000
+....\TU/FandolSong(0)/m/n/14.05249 》
+....\rule(0.0+0.0)x-7.67265
+....\glue 7.67265 minus 7.02625
+....\glue 0.0 plus 0.68819
+....\TU/FandolSong(0)/m/n/14.05249 及
 ....\glue 0.0 plus 0.68819
 ....\TU/FandolSong(0)/m/n/14.05249 上
 ....\glue 0.0 plus 0.68819
@@ -540,20 +572,6 @@ Completed box being shipped out [1]
 ....\glue 0.0 plus 0.68819
 ....\TU/FandolSong(0)/m/n/14.05249 门
 ....\glue 0.0 plus 0.68819
-....\TU/FandolSong(0)/m/n/14.05249 督
-....\glue 0.0 plus 0.68819
-....\TU/FandolSong(0)/m/n/14.05249 导
-....\penalty 10000
-....\TU/FandolSong(0)/m/n/14.05249 、
-....\rule(0.0+0.0)x-9.16223
-....\glue 9.16223 minus 7.02626
-....\glue 0.0 plus 0.68819
-....\TU/FandolSong(0)/m/n/14.05249 抽
-....\glue 0.0 plus 0.68819
-....\TU/FandolSong(0)/m/n/14.05249 查
-....\glue 0.0 plus 0.68819
-....\TU/FandolSong(0)/m/n/14.05249 等
-....\glue 0.0 plus 0.68819
 ....\TU/FandolSong(0)/m/n/14.05249 要
 ....\glue 0.0 plus 0.68819
 ....\TU/FandolSong(0)/m/n/14.05249 求
@@ -565,7 +583,10 @@ Completed box being shipped out [1]
 ....\TU/FandolSong(0)/m/n/14.05249 报
 ....\glue 0.0 plus 0.68819
 ....\TU/FandolSong(0)/m/n/14.05249 送
-....\glue 0.0 plus 0.68819
+....\glue(\rightskip) 0.0
+...\penalty 150
+...\glue(\baselineskip) 12.32607
+...\hbox(10.96094+2.3327)x426.79135, glue set 323.42123fil
 ....\TU/FandolSong(0)/m/n/14.05249 相
 ....\glue 0.0 plus 0.68819
 ....\TU/FandolSong(0)/m/n/14.05249 应
@@ -591,7 +612,7 @@ Completed box being shipped out [1]
 ....\glue(\rightskip) 0.0
 ...\glue(\parskip) 0.0 plus 1.0
 ...\glue(\parskip) 0.0
-...\glue(\baselineskip) 12.24174
+...\glue(\baselineskip) 12.71953
 ...\hbox(11.04526+2.58565)x426.79135, glue set 253.15878fil
 ....\hbox(0.0+0.0)x28.10498
 ....\TU/FandolSong(0)/m/n/14.05249 本
